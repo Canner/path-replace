@@ -1,6 +1,6 @@
 {
   "name": "path-replace",
-  "version": "0.0.0",
+  "version": "0.1.0",
   "description": "replace path string to valid path, escaping all spacial characters and spaces to underscore(`_`), which will be useful generating urls.",
   "homepage": "",
   "author": {
